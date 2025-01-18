@@ -5,3 +5,7 @@
 h1,pre{
     color:black;
 }
+.navbuttons a button
+{
+background-color: red !important;
+}
